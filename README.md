@@ -34,7 +34,7 @@ This project demonstrates an end-to-end machine learning pipeline using Google C
 
 ## Demo Checklist
 - Show project structure and code
-- Show BigQuery SQL and feature engineering
+- Show BigQuery SQL 
 - Explain model choice (linear regression)
 - Show GCS bucket with saved files
 - Show Airflow UI, trigger DAG, and logs
